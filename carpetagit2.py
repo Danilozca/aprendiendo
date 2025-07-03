@@ -1,1 +1,1 @@
-print("tatataOtra prueba ay la dañaste")
+print("tatataOtra prueba")
